@@ -50,22 +50,22 @@
       "free-estimate"
     );
     private $contentHeaderImages = array(
-      "basement-waterproofing" => "https://www.saberfoundations.com/core/images/templates/health/headers/waterproofing-silo-test.jpg",
-      "commercial-foundation-contractor" => "https://www.saberfoundations.com/core/images/templates/health/headers/commercial-silo-test.jpg",
-      "foundation-repair" => "https://www.saberfoundations.com/core/images/templates/health/headers/foundation-silo-test.jpg",
-      "crawl-space-repair" => "https://www.saberfoundations.com/core/images/templates/health/headers/crawl-silo-test.jpg",
-      "default" => "https://www.saberfoundations.com/core/images/templates/health/headers/wall-crack-silo-test.jpg",
+      "basement-waterproofing" => "http://devtest24.basementsite.com//core/images/templates/health/headers/waterproofing-silo-test.jpg",
+      "commercial-foundation-contractor" => "http://devtest24.basementsite.com//core/images/templates/health/headers/commercial-silo-test.jpg",
+      "foundation-repair" => "http://devtest24.basementsite.com//core/images/templates/health/headers/foundation-silo-test.jpg",
+      "crawl-space-repair" => "http://devtest24.basementsite.com//core/images/templates/health/headers/crawl-silo-test.jpg",
+      "default" => "http://devtest24.basementsite.com//core/images/templates/health/headers/wall-crack-silo-test.jpg",
     );
     private $devLinks = array(
       // Css files
-      "global.css" => "https://raw.githubusercontent.com/bs-production/saber-template/master/prod/global.css",
-      "home.css" => "https://raw.githubusercontent.com/bs-production/saber-template/master/prod/home.css",
-      "content.css" => "https://raw.githubusercontent.com/bs-production/saber-template/master/prod/content.css",
+      "global.css" => "https://raw.githubusercontent.com/bs-production/burger-template-demo/master/prod/global.css",
+      "home.css" => "https://raw.githubusercontent.com/bs-production/burger-template-demo/master/prod/home.css",
+      "content.css" => "https://raw.githubusercontent.com/bs-production/burger-template-demo/master/prod/content.css",
 
       // JS Files
-      "dev_tools.js" => "https://raw.githubusercontent.com/bs-production/saber-template/master/prod/dev_tools.js",
-      "home.js" => "https://raw.githubusercontent.com/bs-production/saber-template/master/prod/home.js",
-      "content.js" => "https://raw.githubusercontent.com/bs-production/saber-template/master/prod/content.js"
+      "dev_tools.js" => "https://raw.githubusercontent.com/bs-production/burger-template-demo/master/prod/dev_tools.js",
+      "home.js" => "https://raw.githubusercontent.com/bs-production/burger-template-demo/master/prod/home.js",
+      "content.js" => "https://raw.githubusercontent.com/bs-production/burger-template-demo/master/prod/content.js"
     );
     private $prodLinks = array(
       "favicon.ico" => "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/300/favicon.ico",
@@ -79,7 +79,7 @@
       "jquery.js" => "https://cdn.treehouseinternetgroup.com/cms_core/assets/js/jquery.min.js",
       "jquery.colorbox.js" => "https://cdn.treehouseinternetgroup.com/cms_core/assets/js/jquery.colorbox-min.js",
       "slick.js" => "https://cdn.treehouseinternetgroup.com/cms_core/assets/js/slick.min.js",
-      "scrollable.js" => "https://www.saberfoundations.com/core/js/jquery.thScrollable.js"
+      "scrollable.js" => "http://devtest24.basementsite.com//core/js/jquery.thScrollable.js"
     );
 
     /**
