@@ -1,6 +1,8 @@
-# Saber Foundations template
+# Burger Template Demo
 
-Converting Saber foundation's website to new design from Adobe XD design spec
+Test platform for the new template architecture 
+
+Live site: http://devtest24.basementsite.com/
 
 ## Prerequisites
 
